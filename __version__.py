@@ -1,0 +1,7 @@
+__title__ = 'rest_clients'
+__description__ = 'Python classes for call/implement rest client modules'
+__url__ = 'https://github.com/gresas/rest_clients'
+__version__ = '0.10.0'
+__author__ = 'Guilherme B. Rondon'
+__author_email__ = 'gbrondon@id.uff.br'
+__copyright__ = 'Copyright 2025'
