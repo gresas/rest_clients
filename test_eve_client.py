@@ -13,5 +13,5 @@ class TestGenericApiInit(TestCase):
         self.assertRaises(MissingConfigurationException, EveClient, None, None)
         self.assertRaises(MissingConfigurationException, EveClient, None, Mock())
 
-    def test_should_instantiate_with_auth_api(self):
+    def test_should_instantiate_with_auth_handler(self):
         self.assertIsInstance(EveClient(FAKE_URL, Mock()), EveClient)

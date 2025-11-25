@@ -26,7 +26,7 @@ class EveApiRest(RestClient):
 
             if resp.status_code == 403:
                 logger.debug("403 received, refreshing token...")
-                self.auth_api.update_token()
+                self.auth_handler.update_token()
                 continue
 
             logger.warning(
