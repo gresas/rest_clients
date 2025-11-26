@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/gresas/rest_clients/branch/main/graph/badge.svg)](https://codecov.io/gh/gresas/rest_clients)
+
 # rest_clients
 
 Biblioteca leve para clientes REST e Redis, focada em casos de uso com APIs Eve (RESTful) e Redis/Sentinel.
