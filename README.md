@@ -1,4 +1,4 @@
-[![codecov](https://codecov.io/gh/gresas/rest_clients/branch/main/graph/badge.svg)](https://codecov.io/gh/gresas/rest_clients)
+[![codecov](https://codecov.io/gh/gresas/rest_clients/graph/badge.svg?token=NDV9G39SZI)](https://codecov.io/gh/gresas/rest_clients)
 
 # rest_clients
 
