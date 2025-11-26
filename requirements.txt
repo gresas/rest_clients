@@ -1,0 +1,7 @@
+dependency_injector<5
+config-client<2
+PyYAML<7
+pymongo<5
+requests<3
+redis<8
+urllib3<3
