@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[rest_clients]
+name = "rest_clients"
+version = "0.1.0"
+description = ""
+authors = [{ name = "Guilherme R." }]
+readme = "README.md"
+requires-python = ">=3.8"
+
+# Include ONLY your package code
+packages = [{ include = "rest_clients" }]
